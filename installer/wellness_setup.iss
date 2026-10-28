@@ -18,7 +18,7 @@
 ; ===========================================================================
 
 #define AppName       "Wellness Companion"
-#define AppPublisher  "Redrum624"
+#define AppPublisher  "awaisdev5765"
 #define AppExeName    "Wellness Companion.exe"
 #define AppDataSlug   "wellness-companion"
 

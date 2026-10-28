@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Redrum624/Wellness-Companion/releases"><img src=".github/badges/downloads-badge.svg" alt="Total downloads"></a>
-  <a href="https://github.com/Redrum624/Wellness-Companion/releases/latest"><img src=".github/badges/latest-badge.svg" alt="Latest release"></a>
+  <a href="https://github.com/awaisdev5765/Wellness-Companion/releases"><img src="https://img.shields.io/badge/Downloads-See%20Releases-2e7d5b" alt="Downloads"></a>
+  <a href="https://github.com/awaisdev5765/Wellness-Companion/releases/latest"><img src="https://img.shields.io/badge/Latest-Release-2e7d5b" alt="Latest release"></a>
 </p>
 
 <p align="center">
@@ -133,7 +133,7 @@ adb install -r app\build\outputs\apk\debug\app-debug.apk
 **2. That's it** — the phone app works on its own. Stop here if you don't want the desktop half.
 
 **3. Optional: add the desktop app.** Download `Wellness Companion Setup <version>.exe` from the
-[Releases page](https://github.com/Redrum624/Wellness-Companion/releases/latest) and run it. One
+[Releases page](https://github.com/awaisdev5765/Wellness-Companion/releases/latest) and run it. One
 file contains the app, the Visual C++ runtime, and the Android package.
 
 > **Windows will warn you, and it is right to.** The installer is Authenticode-signed with a
