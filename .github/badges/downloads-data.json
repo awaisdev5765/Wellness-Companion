@@ -125,6 +125,11 @@
       "date": "2026-11-18",
       "total": 0,
       "by_release": {}
+    },
+    {
+      "date": "2026-11-19",
+      "total": 0,
+      "by_release": {}
     }
   ],
   "latest_release": "v1.3.1"
